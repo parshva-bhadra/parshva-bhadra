@@ -3,5 +3,5 @@
 </div>
 
 - 👋 Hi, I’m @parshva-bhadra.
-- 👀 I’m interested in coding, machine learning.
+- 👀 I’m interested in coding and machine learning.
 - 🌱 I’m currently studying C.S.E. at IIIT HYDERABAD.
